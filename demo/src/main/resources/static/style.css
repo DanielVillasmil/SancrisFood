@@ -1,0 +1,18 @@
+*{
+    font-family: sans-serif;
+}
+.page__title{
+    background-color: teal;
+}
+ul{
+    list-style-type: none;
+}
+.nav__bar{
+    background-color: lightblue;
+}
+.col__container{
+    background-color: tomato;
+}
+footer{
+    background-color: turquoise;
+}

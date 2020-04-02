@@ -1,0 +1,21 @@
+.page__title{
+    display: flex;
+    justify-content: center;
+}
+
+.nav__bar{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.col__container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+    justify-content: center;
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
